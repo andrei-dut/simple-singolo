@@ -324,7 +324,7 @@ span {
   border: 3px solid #c7c7c7;
   margin-top: 21.04px;
   border-radius: 2px;
-  background-image: url(images/slider/phone-vertical-display.png);
+  background-image: url(../images/slider/phone-vertical-display.png);
   background-repeat: round;
 }
 @media (max-width: 1019px) {
@@ -476,7 +476,7 @@ span {
   border: 3px solid #c7c7c7;
   margin-right: 21.04px;
   border-radius: 2px;
-  background-image: url(images/slider/phone-horizontal-display.png);
+  background-image: url(../images/slider/phone-horizontal-display.png);
   background-repeat: round;
 }
 @media (max-width: 1019px) {
@@ -624,7 +624,7 @@ span {
   border: calc(3px / 1.54) solid #c7c7c7;
   margin-top: calc(21.04px / 1.54);
   border-radius: calc(2px / 1.54);
-  background-image: url(images/slider/phone-vertical-display.png);
+  background-image: url(../images/slider/phone-vertical-display.png);
   background-repeat: round;
 }
 @media (max-width: 1019px) {
@@ -771,7 +771,7 @@ span {
   border: 3px solid #c7c7c7;
   margin-top: 21.04px;
   border-radius: 2px;
-  background-image: url(images/slider/phone-vertical-display-slide-2.png);
+  background-image: url(../images/slider/phone-vertical-display-slide-2.png);
   background-repeat: round;
 }
 @media (max-width: 1019px) {
@@ -919,7 +919,7 @@ span {
   border: calc(3px / 1.54) solid #c7c7c7;
   margin-top: calc(21.04px / 1.54);
   border-radius: calc(2px / 1.54);
-  background-image: url(images/slider/phone-vertical-display.png);
+  background-image: url(../images/slider/phone-vertical-display.png);
   background-repeat: round;
 }
 @media (max-width: 1019px) {
@@ -1011,7 +1011,7 @@ span {
 }
 
 .slider-content__arrow-left {
-  background-image: url(images/slider/arrow-left.png);
+  background-image: url(../images/slider/arrow-left.png);
   background-repeat: round;
   width: 20px;
   height: 27px;
@@ -1039,7 +1039,7 @@ span {
 }
 
 .slider-content__arrow-right {
-  background-image: url(images/slider/arrow-right.png);
+  background-image: url(../images/slider/arrow-right.png);
   background-repeat: round;
   width: 20px;
   height: 27px;
@@ -1228,27 +1228,27 @@ span {
 }
 
 .pencil {
-  background-image: url(images/services-_icons/services-item-1--nocircle.svg);
+  background-image: url(../images/services-_icons/services-item-1--nocircle.svg);
 }
 
 .light-bulb {
-  background-image: url(images/services-_icons/services-item-2--nocircle.svg);
+  background-image: url(../images/services-_icons/services-item-2--nocircle.svg);
 }
 
 .heart {
-  background-image: url(images/services-_icons/services-item-3--nocircle.svg);
+  background-image: url(../images/services-_icons/services-item-3--nocircle.svg);
 }
 
 .phone {
-  background-image: url(images/services-_icons/services-item-4--nocircle.svg);
+  background-image: url(../images/services-_icons/services-item-4--nocircle.svg);
 }
 
 .message {
-  background-image: url(images/services-_icons/services-item-5--nocircle.svg);
+  background-image: url(../images/services-_icons/services-item-5--nocircle.svg);
 }
 
 .star {
-  background-image: url(images/services-_icons/services-item-6--nocircle.svg);
+  background-image: url(../images/services-_icons/services-item-6--nocircle.svg);
 }
 
 .portfolio {
@@ -1470,19 +1470,19 @@ span {
 }
 
 .facebook {
-  background-image: url(images/social-icons/ico-facebook--nocircle.svg);
+  background-image: url(../images/social-icons/ico-facebook--nocircle.svg);
 }
 
 .google-plus {
-  background-image: url(images/social-icons/ico-google-plus--nocircle.svg);
+  background-image: url(../images/social-icons/ico-google-plus--nocircle.svg);
 }
 
 .twitter {
-  background-image: url(images/social-icons/ico-twitter--nocircle.svg);
+  background-image: url(../images/social-icons/ico-twitter--nocircle.svg);
 }
 
 .linkedin {
-  background-image: url(images/social-icons/ico-linkedin--nocircle.svg);
+  background-image: url(../images/social-icons/ico-linkedin--nocircle.svg);
 }
 
 .icon:hover {

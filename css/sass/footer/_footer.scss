@@ -41,20 +41,19 @@
   background-repeat: no-repeat;
 }
 .facebook {
-  background-image: url(images/social-icons/ico-facebook--nocircle.svg);
+  background-image: url(../images/social-icons/ico-facebook--nocircle.svg);
 }
 .google-plus {
-  background-image: url(images/social-icons/ico-google-plus--nocircle.svg);
+  background-image: url(../images/social-icons/ico-google-plus--nocircle.svg);
 }
 .twitter {
-  background-image: url(images/social-icons/ico-twitter--nocircle.svg);
+  background-image: url(../images/social-icons/ico-twitter--nocircle.svg);
 }
 .linkedin {
-  background-image: url(images/social-icons/ico-linkedin--nocircle.svg);
+  background-image: url(../images/social-icons/ico-linkedin--nocircle.svg);
 }
 
 .icon:hover {
   cursor: pointer;
-
   filter: brightness(1.7);
 }
